@@ -1,0 +1,1 @@
+moralis-admin-cli watch-cloud-folder --moralisApiKey oNxbdEcJtBtn4d3 --moralisApiSecret vAHHd1E1F3ER3xI --moralisSubdomain nppynwlxieog.usemoralis.com --autoSave 1 --moralisCloudfolder C:\Users\david\Documents\Programacion\React_Native\NewMarketBase\moralis\cloud
